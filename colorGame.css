@@ -108,6 +108,7 @@ button:hover{
 .btn{
     display: flex;
     justify-content: center;
+    font-size: 200%;
 
     margin: 1px;
 }
